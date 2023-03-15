@@ -3,13 +3,13 @@
 
 <div align="center">
 
-[![BILIBILI](https://raw.githubusercontent.com/lwh104/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
+[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
 ![](https://img.shields.io/badge/Image%20Augmentation-v3.1-brightgreen)
-[![GitHub forks](https://img.shields.io/github/forks/lwh104/Image-Augmentation)](https://github.com/lwh104/Image-Augmentation)
-[![GitHub stars](https://img.shields.io/github/stars/lwh104/Image-Augmentation)](https://github.com/lwh104/Image-Augmentation)
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Image-Augmentation)](https://github.com/lwh104/Image-Augmentation)
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/lwh104/Image-Augmentation)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=lwh104.Image-Augmentation&right_color=yellow)
 
-![main](https://raw.githubusercontent.com/lwh104/readme-data/main/imgaug/main_3.0.png)
+![main](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/imgaug/main_3.0.png)
 
 </div>
 
